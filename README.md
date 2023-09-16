@@ -1,11 +1,6 @@
-# WooMinMaxOrder
-Simple plugin to set a min or max order amount to WooCommerce, adds a message on the checkout if this criteria is not met
-
 # WooCommerce Minimum and Maximum Order Price 🛒💲
 
 Adds a minimum and maximum order price requirement for WooCommerce checkout.
-
-![WooCommerce Icon](https://woocommerce.com/wp-content/themes/woocommerce/assets/images/woocommerce-logo.png) 
 
 ## Features ✨
 
@@ -15,12 +10,9 @@ Adds a minimum and maximum order price requirement for WooCommerce checkout.
 
 ## Installation 🔧
 
-1. Create a new folder named `wc-min-max-order-price`.
-2. Inside this folder, create a PHP file with the name `wc-min-max-order-price.php`.
-3. Copy the plugin code and paste it into the PHP file.
-4. Zip the `wc-min-max-order-price` folder.
-5. In your WordPress dashboard, go to Plugins > Add New > Upload Plugin and upload the zip file.
-6. Activate the plugin.
+1. Download this GitHub repository as a ZIP.
+2. In your WordPress dashboard, navigate to Plugins > Add New > Upload Plugin.
+3. Upload the downloaded ZIP file and activate the plugin.
 
 ## Configuration ⚙️
 
